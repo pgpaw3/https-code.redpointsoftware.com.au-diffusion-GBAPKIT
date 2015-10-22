@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#Container {
+	background-color: #65535;
+	height: 5000px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: left;
+}
+#Header {
+	background-color: #FFFFFF;
+	height: 200px;
+	width: 800px;
+	background-image: url(../other/bar3.png);
+	background-repeat: no-repeat;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px
+}
+#Left {
+	background-color: #FFFFFF;
+	height: 3000px;
+	width: 150px;
+	float: left;
+	text-align: left;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+}
+#Footer {
+	background-color: #FFFFFF;
+	height: 60px;
+	width: 800px;
+	float: left;
+	text-align: center;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+#Center {
+	background-color: #FFFFFF;
+	float: left;
+	height: 6250px;
+	width: 850px;
+	color: #000;
+	font-size: 16px;
+	text-align: left;
+	font-family: Tahoma, Geneva, sans-serif;
+}
